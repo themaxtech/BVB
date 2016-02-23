@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.maxtech.maiskool" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>MAI SKOOL</name>
+<widget id="com.themaxtech.bvbtirupur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>BVB Tirupur</name>
     <description>
-      Welcome to MAI
+      Welcome to BVB Tirupur
     </description>
     <author email="maxtechapps@gmail.com" href="http://themaxtech.com">
         ARUN G
