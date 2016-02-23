@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<<<<<<< HEAD
 <widget id="com.themaxtech.bvbtirupur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-=======
 <widget id="com.maxtech.pvp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
->>>>>>> origin/master
     <name>BVB Tirupur</name>
     <description>
       Welcome to BVB Tirupur
